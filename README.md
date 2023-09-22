@@ -1,2 +1,2 @@
 # Web-Calculator
- Helps with simole maths operations
+ Helps with simple maths operations
